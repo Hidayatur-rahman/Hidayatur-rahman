@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hidayatur-rahman
 - 👀 I’m interested in Internet of Things and Automatic Systems
-- 🌱 I’m currently learning Arduino, Server, Eagle, Mikrotik and Unifi.
+- 🌱 I’m currently learning Kicad, Arduino, Homeserver, Mikrotik and Unifi.
 - 📫 How to reach me dayat_rahman@live.com
 
 <!---
