@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Hidayatur-rahman
-- 👀 I’m interested in Internet of Things and Automatic Systems
-- 🌱 I’m currently learning Kicad, Arduino, Homeserver, Mikrotik and Unifi.
-- 📫 How to reach me dayat_rahman@live.com
+- Hi, I’m @Hidayatur-rahman
+- I’m interested in Internet of Things and Automatic Systems
+- I’m currently learning Kicad, Arduino, Homeserver, Mikrotik and Unifi.
+- How to reach me dayat_rahman@live.com
 
 <!---
 Hidayatur-rahman/Hidayatur-rahman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
